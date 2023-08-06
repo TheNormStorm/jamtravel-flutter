@@ -1,0 +1,13 @@
+C:/Users/Michael/jamtravel/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/Michael/jamtravel/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/Michael/jamtravel/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Michael/jamtravel/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/Michael/jamtravel/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/Michael/jamtravel/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/Michael/jamtravel/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/Michael/jamtravel/build/windows/runner/CMakeFiles/jamtravel.dir
+C:/Users/Michael/jamtravel/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/Michael/jamtravel/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/Users/Michael/jamtravel/build/windows/plugins/geolocator_windows/CMakeFiles/geolocator_windows_plugin.dir
+C:/Users/Michael/jamtravel/build/windows/plugins/geolocator_windows/CMakeFiles/INSTALL.dir
+C:/Users/Michael/jamtravel/build/windows/plugins/geolocator_windows/CMakeFiles/ALL_BUILD.dir

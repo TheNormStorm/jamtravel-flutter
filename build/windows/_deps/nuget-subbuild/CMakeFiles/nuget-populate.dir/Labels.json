@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/f0d8cfe9d4760b3b2d0b4a638d7342a4/nuget-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/1d80b5102afd24f54b91996d0edaf337/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/9bc0070d796222ea1c1f77b6b3bc68c1/nuget-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/9bc0070d796222ea1c1f77b6b3bc68c1/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/9bc0070d796222ea1c1f77b6b3bc68c1/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/9bc0070d796222ea1c1f77b6b3bc68c1/nuget-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/9bc0070d796222ea1c1f77b6b3bc68c1/nuget-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/9bc0070d796222ea1c1f77b6b3bc68c1/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/9bc0070d796222ea1c1f77b6b3bc68c1/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/9bc0070d796222ea1c1f77b6b3bc68c1/nuget-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Michael/jamtravel/build/windows/_deps/nuget-subbuild/CMakeFiles/9bc0070d796222ea1c1f77b6b3bc68c1/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}
