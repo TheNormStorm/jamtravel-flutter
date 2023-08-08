@@ -1,3 +1,4 @@
+
 # jamtravel
 
 JamTravel, an app that brings you to the unique culture and hidden gems of the small but 'tallawah' Jamaica.
@@ -17,3 +18,7 @@ This page is ultimately consisted of 3 widgets:
 
 Third Page: Details Page
 This page displays the image, name, date of a selected recommended place. There is also a button that once selected should bring you to the companies'/tours' page to book a tour. [Not fully implemented]
+
+![Screenshot_20230806-190617](https://github.com/TheNormStorm/jamtravel-flutter/assets/71862993/d0f7f8a5-3092-4732-b494-270298a09400)
+![Uploading Screenshot_20230806-190623.png…]()
+![Uploading Screenshot_20230806-190628.png…]()
