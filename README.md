@@ -20,5 +20,5 @@ Third Page: Details Page
 This page displays the image, name, date of a selected recommended place. There is also a button that once selected should bring you to the companies'/tours' page to book a tour. [Not fully implemented]
 
 ![Screenshot_20230806-190617](https://github.com/TheNormStorm/jamtravel-flutter/assets/71862993/d0f7f8a5-3092-4732-b494-270298a09400)
-![Uploading Screenshot_20230806-190623.png…]()
-![Uploading Screenshot_20230806-190628.png…]()
+![Screenshot_20230806-190628](https://github.com/TheNormStorm/jamtravel-flutter/assets/71862993/abf433e7-87a1-4601-845a-cb9d42422b2e)
+![Screenshot_20230806-190623](https://github.com/TheNormStorm/jamtravel-flutter/assets/71862993/f56cf379-b67d-47ac-a87e-df29d12db6cf)
