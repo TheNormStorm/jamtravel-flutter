@@ -1,9 +1,12 @@
 
 # jamtravel
 
+Problem: 
+Tourists arrive in the beautiful island of Jamaica, seeking to enjoy the nice beaches and breath taking landscape. Some of Jamaica's best gems aren't mainstream as the more popular options sometimes provided by hotels or tour guides. This application provides users with a variety of local, 'not so popular' gems based on a recommended list and also your current location.
+
 JamTravel, an app that brings you to the unique culture and hidden gems of the small but 'tallawah' Jamaica.
 
-## Getting Started
+Solution:
 
 App Layout:
 
